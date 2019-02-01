@@ -25,3 +25,4 @@ Jika ada saran dan masukan, silahkan buka [issue](https://github.com/petanikode/
 
 Tutorial berikutnya (insya'allah) akan ditambahkan.
 # crud_code
+# CI
